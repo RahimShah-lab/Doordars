@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Doordars/static/css/main.d9fbb269.css",
-    "main.js": "/Doordars/static/js/main.510b8472.js",
+    "main.js": "/Doordars/static/js/main.092c979c.js",
     "static/js/488.433f1cd7.chunk.js": "/Doordars/static/js/488.433f1cd7.chunk.js",
     "index.html": "/Doordars/index.html",
     "main.d9fbb269.css.map": "/Doordars/static/css/main.d9fbb269.css.map",
-    "main.510b8472.js.map": "/Doordars/static/js/main.510b8472.js.map",
+    "main.092c979c.js.map": "/Doordars/static/js/main.092c979c.js.map",
     "488.433f1cd7.chunk.js.map": "/Doordars/static/js/488.433f1cd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9fbb269.css",
-    "static/js/main.510b8472.js"
+    "static/js/main.092c979c.js"
   ]
 }
