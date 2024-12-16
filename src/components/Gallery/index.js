@@ -1,7 +1,7 @@
 const Gallery = () => {
     const images = [
-        { src: "/assets/images/ai-landing.avif", alt: "Image 1" },
-        { src: "/assets/images/card%2001.avif", alt: "Image 2" },  
+        { src: "./assets/images/ai-landing.avif", alt: "Image 1" },
+        { src: "assets/images/card%2001.avif", alt: "Image 2" },  
         { src: "/assets/images/card-02.png", alt: "Image 3" },
         { src: "/assets/images/card03.png", alt: "Image 4" },
         { src: "/assets/images/card04.png", alt: "Image 5" },

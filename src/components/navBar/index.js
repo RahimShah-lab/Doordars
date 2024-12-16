@@ -12,7 +12,11 @@ const Navbar = () => {
         {/* Logo */}
         <div className="text-2xl font-bold flex items-center space-x-2">
           <a href="/" className="hover:opacity-80 transition-opacity duration-200">
-            <img src="/Assets/images/logo.avif" alt="Logo" className="h-10 w-auto" />
+            <img
+              src={`${process.env.PUBLIC_URL}/Assets/images/logo.avif`} 
+              alt="Logo"
+              className="h-10 w-auto"
+            />
           </a>
         </div>
 
