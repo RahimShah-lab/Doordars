@@ -26,7 +26,7 @@ function Lounchpad() {
                     <div className="w-full">
                         <iframe
                             width="100%"
-                            height="315"
+                            height="317"
                             src="https://www.youtube.com/embed/fp2f8lNc6dQ?list=TLGGQwmd5MhHQXgxMzEyMjAyNA"
                             title="YouTube video player"
                             frameBorder="0"
